@@ -1,0 +1,2 @@
+Polska
+scaling: 2 2

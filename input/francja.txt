@@ -1,0 +1,2 @@
+Francja
+rotation: 45
